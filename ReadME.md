@@ -25,4 +25,10 @@ NODE_ENV=production  # keep this as production`
 - `npm run prod`
 - you application should now be running on http://<host ip>:8000
 -
-# wov
+
+# Example .env
+
+MONGO_URI=mongodb://localhost:27017/ChakraApp
+NODE_ENV=development
+PORT=8080
+JWT_SECRET=AU1q+\06KV7w
