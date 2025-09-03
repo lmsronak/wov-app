@@ -2,7 +2,7 @@
 
 The following libraries /modules are required for the application to run.
 
-- Nodejs version - 20.3.0
+- Nodejs version - 20.3.0 or above
 
 # Installation Steps
 
