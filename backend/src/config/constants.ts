@@ -1,0 +1,1 @@
+export const TRIAL_PERIOD_DURATION_IN_DAYS = 7;
