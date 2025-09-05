@@ -58,6 +58,7 @@
     "@types/speakeasy": "^2.0.10",
     "@types/swagger-jsdoc": "^6.0.4",
     "@types/swagger-ui-express": "^4.1.8",
+    "rimraf": "^6.0.1",
     "shx": "^0.4.0",
     "tsup": "^8.5.0",
     "typescript": "^5.8.3"
